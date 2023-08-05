@@ -1,5 +1,5 @@
-# Suspiscious-Tint2-Themes
-🍫 My personal tint2 themes that (kind of) looks like the bars you see on r/unixporn or anywhere.
+# Drecked-Tint2-Themes
+:toilet: My personal tint2 themes that (kind of) looks like the bars you see on r/unixporn or anywhere.
 Executer scripts can be found here ~> https://github.com/addy-dlcxvi/almighty-dotfiles.
 Panels color scheme is [Catppuccin](https://www.catppuccin.com)
 
@@ -16,3 +16,9 @@ Panel button launches rofi
 
 ![2023-08-05-17-55-27_scrot](https://github.com/FanMclaine/Suspiscious-Tint2-Themes/assets/66262586/e3eea650-ac47-4a2a-8f01-3e01aaf9a907)
 > wallpaper is from https://www.github.com/siduck/chadwm. no idea where the tux logo is from, you can change it in the Button1 tab. 
+
+# Installation
+
+1. Download any of the .tintrc file(s) or just clone the repo
+2. Copy the .tint2rc files and paste it under `~/.config/tint2`
+3. Download the executer scripts
