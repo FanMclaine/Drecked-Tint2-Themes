@@ -13,6 +13,13 @@ Tint2 theme based off of [minima](https://github.com/addy-dclxvi/tint2-theme-col
 > Panel button launches rofi. 
 > wallpaper is from https://www.github.com/siduck/chadwm. no idea where the tux logo is from, you can change it in the Button1 tab. 
 
+### Bloxima
+yes
+![image](https://github.com/FanMclaine/Drecked-Tint2-Themes/assets/66262586/70ecb652-cf78-4ce9-9e6f-bc215ecd93f4)
+![2023-08-27-18-02-30_scrot](https://github.com/FanMclaine/Drecked-Tint2-Themes/assets/66262586/6852e758-87d1-44d4-94ac-c6b48428ff62)
+
+> startpage -> [here](https://github.com/fanmclaine/fused-startpage) | wallpaper from dharmx/walls
+
 ### Maxima++
 Maxima but better with weather executer. (Edit size of separator2 if necessary)
 Panel button launches rofi
